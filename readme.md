@@ -2306,6 +2306,9 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
+            </table>            
+        </td>
+    </tr>
                 <!--// Mohammad Amin Taha //-->
 
                 <!--// asmaa adass //-->
